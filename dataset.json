@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Norfolk, Virginia with a population of over 238k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Norfolk, Virginia, US",
+  "export_job_id": "a61c699c-bf2b-4a2f-9345-fd5268796478",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 158819,
+  "location_name": "Norfolk",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-norfolk-virginia-us-sample-158819",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/158819/beamstation_158819_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 77,
+  "sample_sha256": "e3ac1c3a494dedf606c560718e1274e7104b6995ed1fa6c457bf9f57982bd92e",
+  "sample_size_bytes": 290593,
+  "total_records": 775,
+  "updated_at": "2026-04-09T09:35:48.401706+00:00"
+}
