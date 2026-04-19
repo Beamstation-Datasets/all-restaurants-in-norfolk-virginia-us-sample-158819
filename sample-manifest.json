@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a61c699c-bf2b-4a2f-9345-fd5268796478",
+  "export_job_id": "894943b8-0214-463e-9ac4-19a3eeab18ff",
   "id_short": 158819,
-  "published_at": "2026-04-10T19:20:40Z",
+  "published_at": "2026-04-19T07:57:19Z",
   "repo_name": "all-restaurants-in-norfolk-virginia-us-sample-158819",
   "sample_asset_name": "beamstation_158819_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/158819/beamstation_158819_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 77,
-  "sample_sha256": "e3ac1c3a494dedf606c560718e1274e7104b6995ed1fa6c457bf9f57982bd92e",
-  "sample_size_bytes": 290593,
-  "total_records": 775
+  "sample_records": 76,
+  "sample_sha256": "67d8bed5fe60ecd6a244a46d22f8ff074309729f438a85126349dcfd49ddc937",
+  "sample_size_bytes": 289934,
+  "total_records": 769
 }
