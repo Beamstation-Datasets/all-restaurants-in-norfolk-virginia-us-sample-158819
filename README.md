@@ -1,6 +1,6 @@
 # All Restaurants in Norfolk, Virginia, US
 
-> Free BeamStation sample export with 76 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `158819` |
 | Location | Norfolk |
 | Category | Restaurants |
-| Full dataset size | 769 records |
-| Free sample size | 76 records (9.88%) |
-| Last export | 2026-04-16T09:31:51.745206+00:00 |
+| Full dataset size | 235 records |
+| Free sample size | 23 records (9.79%) |
+| Last export | 2026-04-23T09:29:34.886951+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-norfolk-virginia-us-sample-158819/releases/download/sample-latest/beamstation_158819_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
